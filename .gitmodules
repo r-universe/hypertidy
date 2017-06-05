@@ -258,3 +258,8 @@
 	url = https://github.com/mdsumner/spex
 	shallow = true
 	registered = false
+[submodule "tidync"]
+	path = tidync
+	url = https://github.com/r-gris/tidync
+	shallow = true
+	registered = false

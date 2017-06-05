@@ -1,5 +1,11 @@
 [
   {
+    "package": "activate",
+    "url": "https://github.com/r-gris/activate",
+    "via": ["tidyff"],
+    "from": "tidyff"
+  },
+  {
     "package": "anglr",
     "url": "https://github.com/hypertidy/anglr",
     "via": ["guerrilla"],
@@ -40,5 +46,11 @@
     "url": "https://github.com/mdsumner/spex",
     "via": ["ceramic"],
     "from": "ceramic"
+  },
+  {
+    "package": "tidync",
+    "url": "https://github.com/r-gris/tidync",
+    "via": ["tidyff"],
+    "from": "tidyff"
   }
 ]
