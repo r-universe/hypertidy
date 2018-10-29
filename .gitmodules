@@ -248,6 +248,11 @@
 	url = https://github.com/hypertidy/vtkr
 	shallow = true
 	registered = true
+[submodule "rayshader"]
+	path = rayshader
+	url = https://github.com/tylermorganwall/rayshader
+	shallow = true
+	registered = false
 [submodule "spex"]
 	path = spex
 	url = https://github.com/mdsumner/spex

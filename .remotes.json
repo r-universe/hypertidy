@@ -1,5 +1,11 @@
 [
   {
+    "package": "rayshader",
+    "url": "https://github.com/tylermorganwall/rayshader",
+    "via": ["cartilage"],
+    "from": "cartilage"
+  },
+  {
     "package": "spex",
     "url": "https://github.com/mdsumner/spex",
     "via": ["ceramic"],
