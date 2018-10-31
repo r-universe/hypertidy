@@ -18,6 +18,12 @@
     "from": "pfft"
   },
   {
+    "package": "silicate",
+    "url": "https://github.com/hypertidy/silicate",
+    "via": ["scdb"],
+    "from": "scdb"
+  },
+  {
     "package": "spex",
     "url": "https://github.com/mdsumner/spex",
     "via": ["ceramic"],
