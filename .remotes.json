@@ -24,6 +24,12 @@
     "from": "scdb"
   },
   {
+    "package": "silicate",
+    "url": "https://github.com/hypertidy/silicate",
+    "via": ["scgraph"],
+    "from": "scgraph"
+  },
+  {
     "package": "spex",
     "url": "https://github.com/mdsumner/spex",
     "via": ["ceramic"],
