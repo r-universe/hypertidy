@@ -1,5 +1,11 @@
 [
   {
+    "package": "anglr",
+    "url": "https://github.com/hypertidy/anglr",
+    "via": ["guerrilla"],
+    "from": "guerrilla"
+  },
+  {
     "package": "rayshader",
     "url": "https://github.com/tylermorganwall/rayshader",
     "via": ["cartilage"],
