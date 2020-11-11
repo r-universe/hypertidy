@@ -2,51 +2,64 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "ceramic"]
 	path = ceramic
 	url = https://github.com/hypertidy/ceramic
 	shallow = true
+	branch = HEAD
 [submodule "crsmeta"]
 	path = crsmeta
 	url = https://github.com/hypertidy/crsmeta
 	shallow = true
+	branch = HEAD
 [submodule "decido"]
 	path = decido
 	url = https://github.com/hypertidy/decido
 	shallow = true
+	branch = HEAD
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
 	shallow = true
+	branch = HEAD
 [submodule "lazyraster"]
 	path = lazyraster
 	url = https://github.com/hypertidy/lazyraster
 	shallow = true
+	branch = HEAD
 [submodule "ncmeta"]
 	path = ncmeta
 	url = https://github.com/hypertidy/ncmeta
 	shallow = true
+	branch = HEAD
 [submodule "PROJ"]
 	path = PROJ
 	url = https://github.com/hypertidy/proj
 	shallow = true
+	branch = HEAD
 [submodule "quadmesh"]
 	path = quadmesh
 	url = https://github.com/hypertidy/quadmesh
 	shallow = true
+	branch = HEAD
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/hypertidy/reproj
 	shallow = true
+	branch = HEAD
 [submodule "sfdct"]
 	path = sfdct
 	url = https://github.com/hypertidy/sfdct
 	shallow = true
+	branch = HEAD
 [submodule "unjoin"]
 	path = unjoin
 	url = https://github.com/hypertidy/unjoin
 	shallow = true
+	branch = HEAD
 [submodule "vapour"]
 	path = vapour
 	url = https://github.com/hypertidy/vapour
 	shallow = true
+	branch = HEAD
