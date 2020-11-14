@@ -53,6 +53,11 @@
 	url = https://github.com/hypertidy/sfdct
 	shallow = true
 	branch = HEAD
+[submodule "silicate"]
+	path = silicate
+	url = https://github.com/hypertidy/silicate
+	shallow = true
+	branch = HEAD
 [submodule "unjoin"]
 	path = unjoin
 	url = https://github.com/hypertidy/unjoin
