@@ -59,3 +59,7 @@
 	path = vapour
 	url = https://github.com/hypertidy/vapour
 	shallow = true
+[submodule "spex"]
+	path = spex
+	url = https://github.com/mdsumner/spex
+	shallow = true

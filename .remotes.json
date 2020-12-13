@@ -10,5 +10,11 @@
     "url": "https://github.com/hypertidy/reproj",
     "via": ["quadmesh"],
     "from": "quadmesh"
+  },
+  {
+    "package": "spex",
+    "url": "https://github.com/mdsumner/spex",
+    "via": ["ceramic"],
+    "from": "ceramic"
   }
 ]
