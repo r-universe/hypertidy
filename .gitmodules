@@ -23,6 +23,10 @@
 	path = lazyraster
 	url = https://github.com/hypertidy/lazyraster
 	shallow = true
+[submodule "ncdump"]
+	path = ncdump
+	url = https://github.com/hypertidy/ncdump
+	shallow = true
 [submodule "ncmeta"]
 	path = ncmeta
 	url = https://github.com/hypertidy/ncmeta
