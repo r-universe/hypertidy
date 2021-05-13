@@ -8,78 +8,94 @@
 	url = https://github.com/hypertidy/ceramic
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "crsmeta"]
 	path = crsmeta
 	url = https://github.com/hypertidy/crsmeta
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "decido"]
 	path = decido
 	url = https://github.com/hypertidy/decido
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "lazyraster"]
 	path = lazyraster
 	url = https://github.com/hypertidy/lazyraster
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "ncdump"]
 	path = ncdump
 	url = https://github.com/hypertidy/ncdump
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "ncmeta"]
 	path = ncmeta
 	url = https://github.com/hypertidy/ncmeta
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "PROJ"]
 	path = PROJ
 	url = https://github.com/hypertidy/proj
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "quadmesh"]
 	path = quadmesh
 	url = https://github.com/hypertidy/quadmesh
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/hypertidy/reproj
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "sfdct"]
 	path = sfdct
 	url = https://github.com/hypertidy/sfdct
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/hypertidy/silicate
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tabularaster"]
 	path = tabularaster
 	url = https://github.com/hypertidy/tabularaster
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "unjoin"]
 	path = unjoin
 	url = https://github.com/hypertidy/unjoin
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "vapour"]
 	path = vapour
 	url = https://github.com/hypertidy/vapour
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "spex"]
 	path = spex
 	url = https://github.com/mdsumner/spex
 	shallow = true
 	registered = false
+	oncran = true
