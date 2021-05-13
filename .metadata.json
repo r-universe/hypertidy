@@ -1,0 +1,62 @@
+[
+  {
+    "package": "ceramic",
+    "oncran": true
+  },
+  {
+    "package": "crsmeta",
+    "oncran": true
+  },
+  {
+    "package": "decido",
+    "oncran": true
+  },
+  {
+    "package": "geodist",
+    "oncran": true
+  },
+  {
+    "package": "lazyraster",
+    "oncran": true
+  },
+  {
+    "package": "ncdump",
+    "oncran": true
+  },
+  {
+    "package": "ncmeta",
+    "oncran": true
+  },
+  {
+    "package": "PROJ",
+    "oncran": true
+  },
+  {
+    "package": "quadmesh",
+    "oncran": true
+  },
+  {
+    "package": "reproj",
+    "oncran": true
+  },
+  {
+    "package": "sfdct",
+    "oncran": true
+  },
+  {
+    "package": "silicate",
+    "oncran": true
+  },
+  {
+    "package": "tabularaster",
+    "oncran": true
+  },
+  {
+    "package": "unjoin",
+    "oncran": true
+  },
+  {
+    "package": "vapour",
+    "oncran": true
+  }
+]
