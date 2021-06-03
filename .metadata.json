@@ -1,5 +1,9 @@
 [
   {
+    "package": "affinity",
+    "oncran": true
+  },
+  {
     "package": "ceramic",
     "oncran": true
   },

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "affinity"]
+	path = affinity
+	url = https://github.com/hypertidy/affinity
+	shallow = true
+	registered = true
 [submodule "ceramic"]
 	path = ceramic
 	url = https://github.com/hypertidy/ceramic
