@@ -1,11 +1,38 @@
 [
   {
+    "package": "activate"
+  },
+  {
     "package": "affinity",
     "oncran": true
   },
   {
+    "package": "anglr"
+  },
+  {
+    "package": "area"
+  },
+  {
+    "package": "cartilage"
+  },
+  {
+    "package": "cdt"
+  },
+  {
+    "package": "cells"
+  },
+  {
     "package": "ceramic",
     "oncran": true
+  },
+  {
+    "package": "clipper"
+  },
+  {
+    "package": "CMIP5files"
+  },
+  {
+    "package": "contourPolys"
   },
   {
     "package": "crsmeta",
@@ -16,12 +43,51 @@
     "oncran": true
   },
   {
+    "package": "discrete"
+  },
+  {
+    "package": "ffraster"
+  },
+  {
+    "package": "gdalio"
+  },
+  {
+    "package": "gdalwebsrv"
+  },
+  {
     "package": "geodist",
     "oncran": true
   },
   {
+    "package": "gladr"
+  },
+  {
+    "package": "granulated"
+  },
+  {
+    "package": "gridcol"
+  },
+  {
+    "package": "grout"
+  },
+  {
+    "package": "guerrilla"
+  },
+  {
+    "package": "kekule"
+  },
+  {
     "package": "lazyraster",
     "oncran": true
+  },
+  {
+    "package": "lazyvector"
+  },
+  {
+    "package": "manifoldr"
+  },
+  {
+    "package": "ncapi"
   },
   {
     "package": "ncdump",
@@ -32,6 +98,9 @@
     "oncran": true
   },
   {
+    "package": "pfft"
+  },
+  {
     "package": "PROJ",
     "oncran": true
   },
@@ -40,8 +109,23 @@
     "oncran": true
   },
   {
+    "package": "realm"
+  },
+  {
+    "package": "rearcut"
+  },
+  {
     "package": "reproj",
     "oncran": true
+  },
+  {
+    "package": "scdb"
+  },
+  {
+    "package": "scgraph"
+  },
+  {
+    "package": "scspatstat"
   },
   {
     "package": "sfdct",
@@ -52,8 +136,20 @@
     "oncran": true
   },
   {
+    "package": "sphier"
+  },
+  {
+    "package": "svgplotr"
+  },
+  {
     "package": "tabularaster",
     "oncran": true
+  },
+  {
+    "package": "textures"
+  },
+  {
+    "package": "tidyff"
   },
   {
     "package": "unjoin",
@@ -62,5 +158,8 @@
   {
     "package": "vapour",
     "oncran": true
+  },
+  {
+    "package": "vtkr"
   }
 ]

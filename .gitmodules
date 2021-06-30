@@ -1,16 +1,61 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/hypertidy/universe
 	shallow = true
 	branch = HEAD
+[submodule "activate"]
+	path = activate
+	url = https://github.com/hypertidy/activate
+	shallow = true
+	registered = true
 [submodule "affinity"]
 	path = affinity
 	url = https://github.com/hypertidy/affinity
 	shallow = true
 	registered = true
+[submodule "anglr"]
+	path = anglr
+	url = https://github.com/hypertidy/anglr
+	shallow = true
+	registered = true
+[submodule "area"]
+	path = area
+	url = https://github.com/hypertidy/area
+	shallow = true
+	registered = true
+[submodule "cartilage"]
+	path = cartilage
+	url = https://github.com/hypertidy/cartilage
+	shallow = true
+	registered = true
+[submodule "cdt"]
+	path = cdt
+	url = https://github.com/hypertidy/cdt
+	shallow = true
+	registered = true
+[submodule "cells"]
+	path = cells
+	url = https://github.com/hypertidy/cells
+	shallow = true
+	registered = true
 [submodule "ceramic"]
 	path = ceramic
 	url = https://github.com/hypertidy/ceramic
+	shallow = true
+	registered = true
+[submodule "clipper"]
+	path = clipper
+	url = https://github.com/hypertidy/clipper
+	shallow = true
+	registered = true
+[submodule "CMIP5files"]
+	path = CMIP5files
+	url = https://github.com/hypertidy/CMIP5files
+	shallow = true
+	registered = true
+[submodule "contourPolys"]
+	path = contourPolys
+	url = https://github.com/hypertidy/contourPolys
 	shallow = true
 	registered = true
 [submodule "crsmeta"]
@@ -23,14 +68,79 @@
 	url = https://github.com/hypertidy/decido
 	shallow = true
 	registered = true
+[submodule "discrete"]
+	path = discrete
+	url = https://github.com/hypertidy/discrete
+	shallow = true
+	registered = true
+[submodule "ffraster"]
+	path = ffraster
+	url = https://github.com/hypertidy/ffraster
+	shallow = true
+	registered = true
+[submodule "gdalio"]
+	path = gdalio
+	url = https://github.com/hypertidy/gdalio
+	shallow = true
+	registered = true
+[submodule "gdalwebsrv"]
+	path = gdalwebsrv
+	url = https://github.com/hypertidy/gdalwebsrv
+	shallow = true
+	registered = true
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
 	shallow = true
 	registered = true
+[submodule "gladr"]
+	path = gladr
+	url = https://github.com/hypertidy/gladr
+	shallow = true
+	registered = true
+[submodule "granulated"]
+	path = granulated
+	url = https://github.com/hypertidy/granulated
+	shallow = true
+	registered = true
+[submodule "gridcol"]
+	path = gridcol
+	url = https://github.com/hypertidy/gridcol
+	shallow = true
+	registered = true
+[submodule "grout"]
+	path = grout
+	url = https://github.com/hypertidy/grout
+	shallow = true
+	registered = true
+[submodule "guerrilla"]
+	path = guerrilla
+	url = https://github.com/hypertidy/guerrilla
+	shallow = true
+	registered = true
+[submodule "kekule"]
+	path = kekule
+	url = https://github.com/hypertidy/kekule
+	shallow = true
+	registered = true
 [submodule "lazyraster"]
 	path = lazyraster
 	url = https://github.com/hypertidy/lazyraster
+	shallow = true
+	registered = true
+[submodule "lazyvector"]
+	path = lazyvector
+	url = https://github.com/hypertidy/lazyvector
+	shallow = true
+	registered = true
+[submodule "manifoldr"]
+	path = manifoldr
+	url = https://github.com/hypertidy/manifoldr
+	shallow = true
+	registered = true
+[submodule "ncapi"]
+	path = ncapi
+	url = https://github.com/hypertidy/ncapi
 	shallow = true
 	registered = true
 [submodule "ncdump"]
@@ -43,9 +153,14 @@
 	url = https://github.com/hypertidy/ncmeta
 	shallow = true
 	registered = true
+[submodule "pfft"]
+	path = pfft
+	url = https://github.com/hypertidy/pfft
+	shallow = true
+	registered = true
 [submodule "PROJ"]
 	path = PROJ
-	url = https://github.com/hypertidy/proj
+	url = https://github.com/hypertidy/PROJ
 	shallow = true
 	registered = true
 [submodule "quadmesh"]
@@ -53,9 +168,34 @@
 	url = https://github.com/hypertidy/quadmesh
 	shallow = true
 	registered = true
+[submodule "realm"]
+	path = realm
+	url = https://github.com/hypertidy/realm
+	shallow = true
+	registered = true
+[submodule "rearcut"]
+	path = rearcut
+	url = https://github.com/hypertidy/rearcut
+	shallow = true
+	registered = true
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/hypertidy/reproj
+	shallow = true
+	registered = true
+[submodule "scdb"]
+	path = scdb
+	url = https://github.com/hypertidy/scdb
+	shallow = true
+	registered = true
+[submodule "scgraph"]
+	path = scgraph
+	url = https://github.com/hypertidy/scgraph
+	shallow = true
+	registered = true
+[submodule "scspatstat"]
+	path = scspatstat
+	url = https://github.com/hypertidy/scspatstat
 	shallow = true
 	registered = true
 [submodule "sfdct"]
@@ -68,9 +208,29 @@
 	url = https://github.com/hypertidy/silicate
 	shallow = true
 	registered = true
+[submodule "sphier"]
+	path = sphier
+	url = https://github.com/hypertidy/sphier
+	shallow = true
+	registered = true
+[submodule "svgplotr"]
+	path = svgplotr
+	url = https://github.com/hypertidy/svgplotr
+	shallow = true
+	registered = true
 [submodule "tabularaster"]
 	path = tabularaster
 	url = https://github.com/hypertidy/tabularaster
+	shallow = true
+	registered = true
+[submodule "textures"]
+	path = textures
+	url = https://github.com/hypertidy/textures
+	shallow = true
+	registered = true
+[submodule "tidyff"]
+	path = tidyff
+	url = https://github.com/hypertidy/tidyff
 	shallow = true
 	registered = true
 [submodule "unjoin"]
@@ -81,6 +241,11 @@
 [submodule "vapour"]
 	path = vapour
 	url = https://github.com/hypertidy/vapour
+	shallow = true
+	registered = true
+[submodule "vtkr"]
+	path = vtkr
+	url = https://github.com/hypertidy/vtkr
 	shallow = true
 	registered = true
 [submodule "spex"]
