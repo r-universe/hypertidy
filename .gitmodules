@@ -23,11 +23,6 @@
 	url = https://github.com/hypertidy/area
 	shallow = true
 	registered = true
-[submodule "cartilage"]
-	path = cartilage
-	url = https://github.com/hypertidy/cartilage
-	shallow = true
-	registered = true
 [submodule "cdt"]
 	path = cdt
 	url = https://github.com/hypertidy/cdt
@@ -128,11 +123,6 @@
 	url = https://github.com/hypertidy/lazyraster
 	shallow = true
 	registered = true
-[submodule "lazyvector"]
-	path = lazyvector
-	url = https://github.com/hypertidy/lazyvector
-	shallow = true
-	registered = true
 [submodule "manifoldr"]
 	path = manifoldr
 	url = https://github.com/hypertidy/manifoldr
@@ -206,11 +196,6 @@
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/hypertidy/silicate
-	shallow = true
-	registered = true
-[submodule "sphier"]
-	path = sphier
-	url = https://github.com/hypertidy/sphier
 	shallow = true
 	registered = true
 [submodule "svgplotr"]

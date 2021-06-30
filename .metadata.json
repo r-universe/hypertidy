@@ -13,9 +13,6 @@
     "package": "area"
   },
   {
-    "package": "cartilage"
-  },
-  {
     "package": "cdt"
   },
   {
@@ -81,9 +78,6 @@
     "oncran": true
   },
   {
-    "package": "lazyvector"
-  },
-  {
     "package": "manifoldr"
   },
   {
@@ -134,9 +128,6 @@
   {
     "package": "silicate",
     "oncran": true
-  },
-  {
-    "package": "sphier"
   },
   {
     "package": "svgplotr"
