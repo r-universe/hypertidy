@@ -78,6 +78,10 @@
     "oncran": true
   },
   {
+    "package": "lazysf",
+    "oncran": false
+  },
+  {
     "package": "manifoldr"
   },
   {

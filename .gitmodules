@@ -123,6 +123,11 @@
 	url = https://github.com/hypertidy/lazyraster
 	shallow = true
 	registered = true
+[submodule "lazysf"]
+	path = lazysf
+	url = https://github.com/hypertidy/lazysf
+	shallow = true
+	registered = true
 [submodule "manifoldr"]
 	path = manifoldr
 	url = https://github.com/hypertidy/manifoldr
