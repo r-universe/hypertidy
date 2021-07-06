@@ -223,6 +223,11 @@
 	url = https://github.com/hypertidy/tidyff
 	shallow = true
 	registered = true
+[submodule "tissot"]
+	path = tissot
+	url = https://github.com/hypertidy/tissot
+	shallow = true
+	registered = true
 [submodule "unjoin"]
 	path = unjoin
 	url = https://github.com/hypertidy/unjoin

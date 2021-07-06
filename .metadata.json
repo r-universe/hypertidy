@@ -147,6 +147,9 @@
     "package": "tidyff"
   },
   {
+    "package": "tissot"
+  },
+  {
     "package": "unjoin",
     "oncran": true
   },
