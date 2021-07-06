@@ -243,6 +243,11 @@
 	url = https://github.com/hypertidy/vtkr
 	shallow = true
 	registered = true
+[submodule "libproj"]
+	path = libproj
+	url = https://github.com/paleolimbot/libproj
+	shallow = true
+	registered = false
 [submodule "spex"]
 	path = spex
 	url = https://github.com/mdsumner/spex
