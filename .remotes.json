@@ -20,6 +20,12 @@
   {
     "package": "libproj",
     "url": "https://github.com/paleolimbot/libproj",
+    "via": ["PROJ"],
+    "from": "PROJ"
+  },
+  {
+    "package": "libproj",
+    "url": "https://github.com/paleolimbot/libproj",
     "via": ["tissot"],
     "from": "tissot"
   },
