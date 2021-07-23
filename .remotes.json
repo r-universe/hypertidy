@@ -70,7 +70,6 @@
     "package": "vapour",
     "url": "https://github.com/hypertidy/vapour",
     "via": ["gdalio"],
-    "branch": "vectorize-warp-108",
     "from": "gdalio"
   }
 ]
