@@ -247,6 +247,7 @@
 	path = libproj
 	url = https://github.com/paleolimbot/libproj
 	shallow = true
+	branch = proj-8-1-0
 	registered = false
 [submodule "spex"]
 	path = spex
