@@ -21,7 +21,6 @@
     "package": "libproj",
     "url": "https://github.com/paleolimbot/libproj",
     "via": ["PROJ"],
-    "branch": "proj-8-1-0",
     "from": "PROJ"
   },
   {
