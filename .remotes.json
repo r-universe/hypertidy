@@ -64,11 +64,5 @@
     "url": "https://github.com/r-gris/tidync",
     "via": ["tidyff"],
     "from": "tidyff"
-  },
-  {
-    "package": "vapour",
-    "url": "https://github.com/hypertidy/vapour",
-    "via": ["gdalio"],
-    "from": "gdalio"
   }
 ]
