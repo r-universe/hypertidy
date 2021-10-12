@@ -33,11 +33,6 @@
 	url = https://github.com/hypertidy/cells
 	shallow = true
 	registered = true
-[submodule "ceramic"]
-	path = ceramic
-	url = https://github.com/hypertidy/ceramic
-	shallow = true
-	registered = true
 [submodule "clipper"]
 	path = clipper
 	url = https://github.com/hypertidy/clipper
@@ -108,11 +103,6 @@
 	url = https://github.com/hypertidy/grout
 	shallow = true
 	registered = true
-[submodule "guerrilla"]
-	path = guerrilla
-	url = https://github.com/hypertidy/guerrilla
-	shallow = true
-	registered = true
 [submodule "kekule"]
 	path = kekule
 	url = https://github.com/hypertidy/kekule
@@ -148,16 +138,6 @@
 	url = https://github.com/hypertidy/ncmeta
 	shallow = true
 	registered = true
-[submodule "pfft"]
-	path = pfft
-	url = https://github.com/hypertidy/pfft
-	shallow = true
-	registered = true
-[submodule "PROJ"]
-	path = PROJ
-	url = https://github.com/hypertidy/PROJ
-	shallow = true
-	registered = true
 [submodule "quadmesh"]
 	path = quadmesh
 	url = https://github.com/hypertidy/quadmesh
@@ -176,21 +156,6 @@
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/hypertidy/reproj
-	shallow = true
-	registered = true
-[submodule "scdb"]
-	path = scdb
-	url = https://github.com/hypertidy/scdb
-	shallow = true
-	registered = true
-[submodule "scgraph"]
-	path = scgraph
-	url = https://github.com/hypertidy/scgraph
-	shallow = true
-	registered = true
-[submodule "scspatstat"]
-	path = scspatstat
-	url = https://github.com/hypertidy/scspatstat
 	shallow = true
 	registered = true
 [submodule "sfdct"]
@@ -216,16 +181,6 @@
 [submodule "textures"]
 	path = textures
 	url = https://github.com/hypertidy/textures
-	shallow = true
-	registered = true
-[submodule "tidyff"]
-	path = tidyff
-	url = https://github.com/hypertidy/tidyff
-	shallow = true
-	registered = true
-[submodule "tissot"]
-	path = tissot
-	url = https://github.com/hypertidy/tissot
 	shallow = true
 	registered = true
 [submodule "topography"]
