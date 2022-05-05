@@ -263,3 +263,8 @@
 	url = https://github.com/r-gris/tidync
 	shallow = true
 	registered = false
+[submodule "vaster"]
+	path = vaster
+	url = https://github.com/hypertidy/vaster
+	shallow = true
+	registered = false

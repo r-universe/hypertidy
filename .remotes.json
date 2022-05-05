@@ -64,5 +64,11 @@
     "url": "https://github.com/r-gris/tidync",
     "via": ["tidyff"],
     "from": "tidyff"
+  },
+  {
+    "package": "vaster",
+    "url": "https://github.com/hypertidy/vaster",
+    "via": ["grout"],
+    "from": "grout"
   }
 ]
