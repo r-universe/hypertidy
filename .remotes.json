@@ -2,6 +2,12 @@
   {
     "package": "PROJ",
     "url": "https://github.com/hypertidy/PROJ",
+    "via": ["reproj"],
+    "from": "reproj"
+  },
+  {
+    "package": "PROJ",
+    "url": "https://github.com/hypertidy/PROJ",
     "via": ["tissot"],
     "from": "tissot"
   },
@@ -22,6 +28,12 @@
     "url": "https://github.com/paleolimbot/libproj",
     "via": ["PROJ"],
     "from": "PROJ"
+  },
+  {
+    "package": "libproj",
+    "url": "https://github.com/paleolimbot/libproj",
+    "via": ["reproj", "PROJ"],
+    "from": "reproj"
   },
   {
     "package": "libproj",
