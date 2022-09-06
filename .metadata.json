@@ -74,8 +74,7 @@
     "package": "kekule"
   },
   {
-    "package": "lazyraster",
-    "oncran": true
+    "package": "lazyraster"
   },
   {
     "package": "lazysf",
@@ -157,8 +156,7 @@
     "oncran": true
   },
   {
-    "package": "vapour",
-    "oncran": true
+    "package": "vapour"
   },
   {
     "package": "vtkr"
