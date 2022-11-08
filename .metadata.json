@@ -156,7 +156,8 @@
     "oncran": true
   },
   {
-    "package": "vapour"
+    "package": "vapour",
+    "oncran": true
   },
   {
     "package": "vtkr"
