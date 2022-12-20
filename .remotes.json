@@ -72,6 +72,12 @@
     "from": "grout"
   },
   {
+    "package": "vaster",
+    "url": "https://github.com/hypertidy/vaster",
+    "via": ["wince"],
+    "from": "wince"
+  },
+  {
     "package": "ximage",
     "url": "https://github.com/hypertidy/ximage",
     "via": ["whatarelief"],
