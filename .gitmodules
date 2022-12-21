@@ -253,6 +253,11 @@
 	url = https://github.com/paleolimbot/libproj
 	shallow = true
 	registered = false
+[submodule "quad"]
+	path = quad
+	url = https://github.com/hypertidy/quad
+	shallow = true
+	registered = false
 [submodule "spex"]
 	path = spex
 	url = https://github.com/mdsumner/spex

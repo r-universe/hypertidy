@@ -24,6 +24,12 @@
     "from": "tissot"
   },
   {
+    "package": "quad",
+    "url": "https://github.com/hypertidy/quad",
+    "via": ["textures"],
+    "from": "textures"
+  },
+  {
     "package": "silicate",
     "url": "https://github.com/hypertidy/silicate",
     "via": ["pfft"],
