@@ -258,11 +258,6 @@
 	url = https://github.com/hypertidy/quad
 	shallow = true
 	registered = false
-[submodule "spex"]
-	path = spex
-	url = https://github.com/mdsumner/spex
-	shallow = true
-	registered = false
 [submodule "tidync"]
 	path = tidync
 	url = https://github.com/r-gris/tidync
