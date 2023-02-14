@@ -60,9 +60,21 @@
     "from": "tidyff"
   },
   {
+    "package": "vapour",
+    "url": "https://github.com/hypertidy/vapour",
+    "via": ["whatarelief"],
+    "from": "whatarelief"
+  },
+  {
     "package": "vaster",
     "url": "https://github.com/hypertidy/vaster",
     "via": ["grout"],
     "from": "grout"
+  },
+  {
+    "package": "ximage",
+    "url": "https://github.com/hypertidy/ximage",
+    "via": ["whatarelief"],
+    "from": "whatarelief"
   }
 ]
