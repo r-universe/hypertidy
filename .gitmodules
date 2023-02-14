@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/hypertidy/universe
+	url = https://github.com/hypertidy/hypertidy.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "activate"]
@@ -21,6 +21,11 @@
 [submodule "area"]
 	path = area
 	url = https://github.com/hypertidy/area
+	shallow = true
+	registered = true
+[submodule "bigcurve"]
+	path = bigcurve
+	url = https://github.com/hypertidy/bigcurve
 	shallow = true
 	registered = true
 [submodule "cdt"]
@@ -53,9 +58,19 @@
 	url = https://github.com/hypertidy/contourPolys
 	shallow = true
 	registered = true
+[submodule "controlledburn"]
+	path = controlledburn
+	url = https://github.com/hypertidy/controlledburn
+	shallow = true
+	registered = true
 [submodule "crsmeta"]
 	path = crsmeta
 	url = https://github.com/hypertidy/crsmeta
+	shallow = true
+	registered = true
+[submodule "delone"]
+	path = delone
+	url = https://github.com/hypertidy/delone
 	shallow = true
 	registered = true
 [submodule "decido"]
@@ -68,9 +83,24 @@
 	url = https://github.com/hypertidy/discrete
 	shallow = true
 	registered = true
+[submodule "earthcircle"]
+	path = earthcircle
+	url = https://github.com/hypertidy/earthcircle
+	shallow = true
+	registered = true
+[submodule "xisoband"]
+	path = xisoband
+	url = https://github.com/hypertidy/xisoband
+	shallow = true
+	registered = true
 [submodule "ffraster"]
 	path = ffraster
 	url = https://github.com/hypertidy/ffraster
+	shallow = true
+	registered = true
+[submodule "futility"]
+	path = futility
+	url = https://github.com/hypertidy/futility
 	shallow = true
 	registered = true
 [submodule "gdalio"]
@@ -83,9 +113,19 @@
 	url = https://github.com/hypertidy/gdalwebsrv
 	shallow = true
 	registered = true
+[submodule "geoarea"]
+	path = geoarea
+	url = https://github.com/hypertidy/geoarea
+	shallow = true
+	registered = true
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
+	shallow = true
+	registered = true
+[submodule "ggdal"]
+	path = ggdal
+	url = https://github.com/hypertidy/ggdal
 	shallow = true
 	registered = true
 [submodule "gladr"]
@@ -96,6 +136,11 @@
 [submodule "granulated"]
 	path = granulated
 	url = https://github.com/hypertidy/granulated
+	shallow = true
+	registered = true
+[submodule "graticule"]
+	path = graticule
+	url = https://github.com/hypertidy/graticule
 	shallow = true
 	registered = true
 [submodule "gridcol"]
@@ -128,9 +173,19 @@
 	url = https://github.com/hypertidy/lazysf
 	shallow = true
 	registered = true
+[submodule "L3Bin"]
+	path = L3Bin
+	url = https://github.com/hypertidy/L3Bin
+	shallow = true
+	registered = true
 [submodule "manifoldr"]
 	path = manifoldr
 	url = https://github.com/hypertidy/manifoldr
+	shallow = true
+	registered = true
+[submodule "mesh3d"]
+	path = mesh3d
+	url = https://github.com/hypertidy/mesh3d
 	shallow = true
 	registered = true
 [submodule "ncapi"]
@@ -153,9 +208,24 @@
 	url = https://github.com/hypertidy/pfft
 	shallow = true
 	registered = true
+[submodule "polymer"]
+	path = polymer
+	url = https://github.com/hypertidy/polymer
+	shallow = true
+	registered = true
+[submodule "plover"]
+	path = plover
+	url = https://github.com/hypertidy/plover
+	shallow = true
+	registered = true
 [submodule "PROJ"]
 	path = PROJ
 	url = https://github.com/hypertidy/PROJ
+	shallow = true
+	registered = true
+[submodule "quad"]
+	path = quad
+	url = https://github.com/hypertidy/quad
 	shallow = true
 	registered = true
 [submodule "quadmesh"]
@@ -243,9 +313,39 @@
 	url = https://github.com/hypertidy/vapour
 	shallow = true
 	registered = true
+[submodule "vaster"]
+	path = vaster
+	url = https://github.com/hypertidy/vaster
+	shallow = true
+	registered = true
 [submodule "vtkr"]
 	path = vtkr
 	url = https://github.com/hypertidy/vtkr
+	shallow = true
+	registered = true
+[submodule "whatarelief"]
+	path = whatarelief
+	url = https://github.com/hypertidy/whatarelief
+	shallow = true
+	registered = true
+[submodule "ximage"]
+	path = ximage
+	url = https://github.com/hypertidy/ximage
+	shallow = true
+	registered = true
+[submodule "xplot"]
+	path = xplot
+	url = https://github.com/hypertidy/xplot
+	shallow = true
+	registered = true
+[submodule "wince"]
+	path = wince
+	url = https://github.com/hypertidy/wince
+	shallow = true
+	registered = true
+[submodule "zarrr"]
+	path = zarrr
+	url = https://github.com/hypertidy/zarrr
 	shallow = true
 	registered = true
 [submodule "libproj"]
@@ -253,18 +353,8 @@
 	url = https://github.com/paleolimbot/libproj
 	shallow = true
 	registered = false
-[submodule "quad"]
-	path = quad
-	url = https://github.com/hypertidy/quad
-	shallow = true
-	registered = false
 [submodule "tidync"]
 	path = tidync
 	url = https://github.com/r-gris/tidync
-	shallow = true
-	registered = false
-[submodule "vaster"]
-	path = vaster
-	url = https://github.com/hypertidy/vaster
 	shallow = true
 	registered = false

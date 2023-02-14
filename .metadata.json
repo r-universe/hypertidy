@@ -13,6 +13,9 @@
     "package": "area"
   },
   {
+    "package": "bigcurve"
+  },
+  {
     "package": "cdt"
   },
   {
@@ -32,8 +35,14 @@
     "package": "contourPolys"
   },
   {
+    "package": "controlledburn"
+  },
+  {
     "package": "crsmeta",
     "oncran": true
+  },
+  {
+    "package": "delone"
   },
   {
     "package": "decido",
@@ -43,7 +52,17 @@
     "package": "discrete"
   },
   {
+    "package": "earthcircle"
+  },
+  {
+    "package": "xisoband"
+  },
+  {
     "package": "ffraster"
+  },
+  {
+    "package": "futility",
+    "oncran": false
   },
   {
     "package": "gdalio"
@@ -52,14 +71,24 @@
     "package": "gdalwebsrv"
   },
   {
+    "package": "geoarea"
+  },
+  {
     "package": "geodist",
     "oncran": true
+  },
+  {
+    "package": "ggdal"
   },
   {
     "package": "gladr"
   },
   {
     "package": "granulated"
+  },
+  {
+    "package": "graticule",
+    "oncran": true
   },
   {
     "package": "gridcol"
@@ -81,7 +110,13 @@
     "oncran": true
   },
   {
+    "package": "L3Bin"
+  },
+  {
     "package": "manifoldr"
+  },
+  {
+    "package": "mesh3d"
   },
   {
     "package": "ncapi"
@@ -98,8 +133,17 @@
     "package": "pfft"
   },
   {
+    "package": "polymer"
+  },
+  {
+    "package": "plover"
+  },
+  {
     "package": "PROJ",
     "oncran": true
+  },
+  {
+    "package": "quad"
   },
   {
     "package": "quadmesh",
@@ -160,6 +204,27 @@
     "oncran": true
   },
   {
+    "package": "vaster"
+  },
+  {
     "package": "vtkr"
+  },
+  {
+    "package": "whatarelief"
+  },
+  {
+    "package": "ximage"
+  },
+  {
+    "package": "xisoband"
+  },
+  {
+    "package": "xplot"
+  },
+  {
+    "package": "wince"
+  },
+  {
+    "package": "zarrr"
   }
 ]
