@@ -348,6 +348,11 @@
 	url = https://github.com/hypertidy/zarrr
 	shallow = true
 	registered = true
+[submodule "dsn"]
+	path = dsn
+	url = https://github.com/hypertidy/dsn
+	shallow = true
+	registered = false
 [submodule "libproj"]
 	path = libproj
 	url = https://github.com/paleolimbot/libproj

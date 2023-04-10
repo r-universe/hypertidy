@@ -18,6 +18,12 @@
     "from": "guerrilla"
   },
   {
+    "package": "dsn",
+    "url": "https://github.com/hypertidy/dsn",
+    "via": ["whatarelief"],
+    "from": "whatarelief"
+  },
+  {
     "package": "libproj",
     "url": "https://github.com/paleolimbot/libproj",
     "via": ["tissot", "PROJ"],
