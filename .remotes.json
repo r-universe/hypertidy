@@ -2,6 +2,12 @@
   {
     "package": "PROJ",
     "url": "https://github.com/hypertidy/PROJ",
+    "via": ["reproj"],
+    "from": "reproj"
+  },
+  {
+    "package": "PROJ",
+    "url": "https://github.com/hypertidy/PROJ",
     "via": ["tissot"],
     "from": "tissot"
   },
