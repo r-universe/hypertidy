@@ -173,9 +173,9 @@
 	url = https://github.com/hypertidy/lazysf
 	shallow = true
 	registered = true
-[submodule "L3Bin"]
-	path = L3Bin
-	url = https://github.com/hypertidy/L3Bin
+[submodule "L3bin"]
+	path = L3bin
+	url = https://github.com/hypertidy/L3bin
 	shallow = true
 	registered = true
 [submodule "manifoldr"]
