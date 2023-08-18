@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/hypertidy/hypertidy.r-universe.dev
 	branch = HEAD
+[submodule "CMIP5files"]
+	path = CMIP5files
+	url = https://github.com/hypertidy/CMIP5files
+[submodule "L3bin"]
+	path = L3bin
+	url = https://github.com/hypertidy/L3bin
+[submodule "PROJ"]
+	path = PROJ
+	url = https://github.com/hypertidy/PROJ
 [submodule "activate"]
 	path = activate
 	url = https://github.com/hypertidy/activate
@@ -29,9 +38,6 @@
 [submodule "clipper"]
 	path = clipper
 	url = https://github.com/hypertidy/clipper
-[submodule "CMIP5files"]
-	path = CMIP5files
-	url = https://github.com/hypertidy/CMIP5files
 [submodule "contourPolys"]
 	path = contourPolys
 	url = https://github.com/hypertidy/contourPolys
@@ -41,21 +47,22 @@
 [submodule "crsmeta"]
 	path = crsmeta
 	url = https://github.com/hypertidy/crsmeta
-[submodule "delone"]
-	path = delone
-	url = https://github.com/hypertidy/delone
 [submodule "decido"]
 	path = decido
 	url = https://github.com/hypertidy/decido
+[submodule "delone"]
+	path = delone
+	url = https://github.com/hypertidy/delone
 [submodule "discrete"]
 	path = discrete
 	url = https://github.com/hypertidy/discrete
+[submodule "dsn"]
+	path = dsn
+	url = https://github.com/hypertidy/dsn
+	registered = false
 [submodule "earthcircle"]
 	path = earthcircle
 	url = https://github.com/hypertidy/earthcircle
-[submodule "xisoband"]
-	path = xisoband
-	url = https://github.com/hypertidy/xisoband
 [submodule "ffraster"]
 	path = ffraster
 	url = https://github.com/hypertidy/ffraster
@@ -104,9 +111,10 @@
 [submodule "lazysf"]
 	path = lazysf
 	url = https://github.com/hypertidy/lazysf
-[submodule "L3bin"]
-	path = L3bin
-	url = https://github.com/hypertidy/L3bin
+[submodule "libproj"]
+	path = libproj
+	url = https://github.com/paleolimbot/libproj
+	registered = false
 [submodule "manifoldr"]
 	path = manifoldr
 	url = https://github.com/hypertidy/manifoldr
@@ -125,15 +133,12 @@
 [submodule "pfft"]
 	path = pfft
 	url = https://github.com/hypertidy/pfft
-[submodule "polymer"]
-	path = polymer
-	url = https://github.com/hypertidy/polymer
 [submodule "plover"]
 	path = plover
 	url = https://github.com/hypertidy/plover
-[submodule "PROJ"]
-	path = PROJ
-	url = https://github.com/hypertidy/PROJ
+[submodule "polymer"]
+	path = polymer
+	url = https://github.com/hypertidy/polymer
 [submodule "quad"]
 	path = quad
 	url = https://github.com/hypertidy/quad
@@ -176,6 +181,10 @@
 [submodule "tidyff"]
 	path = tidyff
 	url = https://github.com/hypertidy/tidyff
+[submodule "tidync"]
+	path = tidync
+	url = https://github.com/r-gris/tidync
+	registered = false
 [submodule "tissot"]
 	path = tissot
 	url = https://github.com/hypertidy/tissot
@@ -197,27 +206,18 @@
 [submodule "whatarelief"]
 	path = whatarelief
 	url = https://github.com/hypertidy/whatarelief
-[submodule "ximage"]
-	path = ximage
-	url = https://github.com/hypertidy/ximage
-[submodule "xplot"]
-	path = xplot
-	url = https://github.com/hypertidy/xplot
 [submodule "wince"]
 	path = wince
 	url = https://github.com/hypertidy/wince
+[submodule "ximage"]
+	path = ximage
+	url = https://github.com/hypertidy/ximage
+[submodule "xisoband"]
+	path = xisoband
+	url = https://github.com/hypertidy/xisoband
+[submodule "xplot"]
+	path = xplot
+	url = https://github.com/hypertidy/xplot
 [submodule "zarrr"]
 	path = zarrr
 	url = https://github.com/hypertidy/zarrr
-[submodule "dsn"]
-	path = dsn
-	url = https://github.com/hypertidy/dsn
-	registered = false
-[submodule "libproj"]
-	path = libproj
-	url = https://github.com/paleolimbot/libproj
-	registered = false
-[submodule "tidync"]
-	path = tidync
-	url = https://github.com/r-gris/tidync
-	registered = false
