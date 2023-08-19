@@ -24,12 +24,6 @@
     "from": "guerrilla"
   },
   {
-    "package": "dsn",
-    "url": "https://github.com/hypertidy/dsn",
-    "via": ["whatarelief"],
-    "from": "whatarelief"
-  },
-  {
     "package": "libproj",
     "url": "https://github.com/paleolimbot/libproj",
     "via": ["tissot", "PROJ"],
@@ -64,6 +58,12 @@
     "url": "https://github.com/hypertidy/silicate",
     "via": ["scspatstat"],
     "from": "scspatstat"
+  },
+  {
+    "package": "spatial.datasources",
+    "url": "https://github.com/hypertidy/spatial.datasources",
+    "via": ["whatarelief"],
+    "from": "whatarelief"
   },
   {
     "package": "tidync",

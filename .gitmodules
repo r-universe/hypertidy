@@ -56,10 +56,6 @@
 [submodule "discrete"]
 	path = discrete
 	url = https://github.com/hypertidy/discrete
-[submodule "dsn"]
-	path = dsn
-	url = https://github.com/hypertidy/dsn
-	registered = false
 [submodule "earthcircle"]
 	path = earthcircle
 	url = https://github.com/hypertidy/earthcircle
@@ -169,6 +165,10 @@
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/hypertidy/silicate
+[submodule "spatial.datasources"]
+	path = spatial.datasources
+	url = https://github.com/hypertidy/spatial.datasources
+	registered = false
 [submodule "svgplotr"]
 	path = svgplotr
 	url = https://github.com/hypertidy/svgplotr
