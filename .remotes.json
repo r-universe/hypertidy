@@ -36,6 +36,12 @@
     "from": "textures"
   },
   {
+    "package": "sds",
+    "url": "https://github.com/hypertidy/sds",
+    "via": ["ggdal"],
+    "from": "ggdal"
+  },
+  {
     "package": "silicate",
     "url": "https://github.com/hypertidy/silicate",
     "via": ["pfft"],
@@ -74,12 +80,6 @@
   {
     "package": "vapour",
     "url": "https://github.com/hypertidy/vapour",
-    "via": ["ggdal", "whatarelief"],
-    "from": "ggdal"
-  },
-  {
-    "package": "vapour",
-    "url": "https://github.com/hypertidy/vapour",
     "via": ["whatarelief"],
     "from": "whatarelief"
   },
@@ -94,18 +94,6 @@
     "url": "https://github.com/hypertidy/vaster",
     "via": ["wince"],
     "from": "wince"
-  },
-  {
-    "package": "whatarelief",
-    "url": "https://github.com/hypertidy/whatarelief",
-    "via": ["ggdal"],
-    "from": "ggdal"
-  },
-  {
-    "package": "ximage",
-    "url": "https://github.com/hypertidy/ximage",
-    "via": ["ggdal", "whatarelief"],
-    "from": "ggdal"
   },
   {
     "package": "ximage",

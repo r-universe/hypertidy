@@ -159,6 +159,10 @@
 [submodule "scspatstat"]
 	path = scspatstat
 	url = https://github.com/hypertidy/scspatstat
+[submodule "sds"]
+	path = sds
+	url = https://github.com/hypertidy/sds
+	registered = false
 [submodule "sfdct"]
 	path = sfdct
 	url = https://github.com/hypertidy/sfdct
