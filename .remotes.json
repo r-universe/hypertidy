@@ -1,11 +1,5 @@
 [
   {
-    "package": "PROJ",
-    "url": "https://github.com/hypertidy/PROJ",
-    "via": ["tissot"],
-    "from": "tissot"
-  },
-  {
     "package": "activate",
     "url": "https://github.com/r-gris/activate",
     "via": ["tidyff"],
@@ -16,12 +10,6 @@
     "url": "https://github.com/hypertidy/anglr",
     "via": ["guerrilla"],
     "from": "guerrilla"
-  },
-  {
-    "package": "libproj",
-    "url": "https://github.com/paleolimbot/libproj",
-    "via": ["tissot", "PROJ"],
-    "from": "tissot"
   },
   {
     "package": "quad",
