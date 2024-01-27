@@ -56,6 +56,9 @@
 [submodule "discrete"]
 	path = discrete
 	url = https://github.com/hypertidy/discrete
+[submodule "dsn"]
+	path = dsn
+	url = https://github.com/hypertidy/dsn
 [submodule "earthcircle"]
 	path = earthcircle
 	url = https://github.com/hypertidy/earthcircle
