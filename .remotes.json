@@ -24,6 +24,12 @@
     "from": "ggdal"
   },
   {
+    "package": "sds",
+    "url": "https://github.com/hypertidy/sds",
+    "via": ["whatarelief"],
+    "from": "whatarelief"
+  },
+  {
     "package": "silicate",
     "url": "https://github.com/hypertidy/silicate",
     "via": ["pfft"],
@@ -46,12 +52,6 @@
     "url": "https://github.com/hypertidy/silicate",
     "via": ["scspatstat"],
     "from": "scspatstat"
-  },
-  {
-    "package": "spatial.datasources",
-    "url": "https://github.com/hypertidy/spatial.datasources",
-    "via": ["whatarelief"],
-    "from": "whatarelief"
   },
   {
     "package": "tidync",
