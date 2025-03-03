@@ -62,6 +62,9 @@
 [submodule "earthcircle"]
 	path = earthcircle
 	url = https://github.com/hypertidy/earthcircle
+[submodule "fasterize"]
+	path = fasterize
+	url = https://github.com/hypertidy/fasterize
 [submodule "ffraster"]
 	path = ffraster
 	url = https://github.com/hypertidy/ffraster
