@@ -38,6 +38,9 @@
 [submodule "clipper"]
 	path = clipper
 	url = https://github.com/hypertidy/clipper
+[submodule "cmemsarco"]
+	path = cmemsarco
+	url = https://github.com/hypertidy/cmemsarco
 [submodule "contourPolys"]
 	path = contourPolys
 	url = https://github.com/hypertidy/contourPolys
@@ -68,12 +71,15 @@
 [submodule "ffraster"]
 	path = ffraster
 	url = https://github.com/hypertidy/ffraster
+[submodule "filearchy"]
+	path = filearchy
+	url = https://github.com/hypertidy/filearchy
 [submodule "futility"]
 	path = futility
 	url = https://github.com/hypertidy/futility
-[submodule "gdalio"]
-	path = gdalio
-	url = https://github.com/hypertidy/gdalio
+[submodule "gdalblock"]
+	path = gdalblock
+	url = https://github.com/hypertidy/gdalblock
 [submodule "gdalwebsrv"]
 	path = gdalwebsrv
 	url = https://github.com/hypertidy/gdalwebsrv
@@ -83,6 +89,9 @@
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
+[submodule "geographiclib"]
+	path = geographiclib
+	url = https://github.com/hypertidy/geographiclib
 [submodule "ggdal"]
 	path = ggdal
 	url = https://github.com/hypertidy/ggdal
@@ -104,6 +113,9 @@
 [submodule "guerrilla"]
 	path = guerrilla
 	url = https://github.com/hypertidy/guerrilla
+[submodule "isoraster"]
+	path = isoraster
+	url = https://github.com/hypertidy/isoraster
 [submodule "kekule"]
 	path = kekule
 	url = https://github.com/hypertidy/kekule
@@ -122,9 +134,6 @@
 [submodule "ncapi"]
 	path = ncapi
 	url = https://github.com/hypertidy/ncapi
-[submodule "ncdump"]
-	path = ncdump
-	url = https://github.com/hypertidy/ncdump
 [submodule "ncmeta"]
 	path = ncmeta
 	url = https://github.com/hypertidy/ncmeta
@@ -143,6 +152,9 @@
 [submodule "quadmesh"]
 	path = quadmesh
 	url = https://github.com/hypertidy/quadmesh
+[submodule "readwfs"]
+	path = readwfs
+	url = https://github.com/hypertidy/readwfs
 [submodule "realm"]
 	path = realm
 	url = https://github.com/hypertidy/realm
@@ -161,12 +173,18 @@
 [submodule "scspatstat"]
 	path = scspatstat
 	url = https://github.com/hypertidy/scspatstat
+[submodule "sds"]
+	path = sds
+	url = https://github.com/hypertidy/sds
 [submodule "sfdct"]
 	path = sfdct
 	url = https://github.com/hypertidy/sfdct
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/hypertidy/silicate
+[submodule "starc"]
+	path = starc
+	url = https://github.com/hypertidy/starc
 [submodule "svgplotr"]
 	path = svgplotr
 	url = https://github.com/hypertidy/svgplotr
@@ -179,6 +197,9 @@
 [submodule "tidyff"]
 	path = tidyff
 	url = https://github.com/hypertidy/tidyff
+[submodule "timenow"]
+	path = timenow
+	url = https://github.com/hypertidy/timenow
 [submodule "tissot"]
 	path = tissot
 	url = https://github.com/hypertidy/tissot
@@ -194,6 +215,9 @@
 [submodule "vaster"]
 	path = vaster
 	url = https://github.com/hypertidy/vaster
+[submodule "vsils"]
+	path = vsils
+	url = https://github.com/hypertidy/vsils
 [submodule "vtkr"]
 	path = vtkr
 	url = https://github.com/hypertidy/vtkr
@@ -203,6 +227,9 @@
 [submodule "wince"]
 	path = wince
 	url = https://github.com/hypertidy/wince
+[submodule "wkpool"]
+	path = wkpool
+	url = https://github.com/hypertidy/wkpool
 [submodule "ximage"]
 	path = ximage
 	url = https://github.com/hypertidy/ximage
