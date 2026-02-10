@@ -47,6 +47,9 @@
 [submodule "controlledburn"]
 	path = controlledburn
 	url = https://github.com/hypertidy/controlledburn
+[submodule "croc"]
+	path = croc
+	url = https://github.com/sosoc/croc
 [submodule "crsmeta"]
 	path = crsmeta
 	url = https://github.com/hypertidy/crsmeta
@@ -92,9 +95,6 @@
 [submodule "geographiclib"]
 	path = geographiclib
 	url = https://github.com/hypertidy/geographiclib
-[submodule "ggdal"]
-	path = ggdal
-	url = https://github.com/hypertidy/ggdal
 [submodule "gladr"]
 	path = gladr
 	url = https://github.com/hypertidy/gladr
@@ -164,6 +164,9 @@
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/hypertidy/reproj
+[submodule "rvgpm"]
+	path = rvgpm
+	url = https://github.com/sosoc/rvgpm
 [submodule "scdb"]
 	path = scdb
 	url = https://github.com/hypertidy/scdb
