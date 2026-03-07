@@ -125,12 +125,18 @@
 [submodule "lazysf"]
 	path = lazysf
 	url = https://github.com/hypertidy/lazysf
+[submodule "location"]
+	path = location
+	url = https://github.com/hypertidy/location
 [submodule "manifoldr"]
 	path = manifoldr
 	url = https://github.com/hypertidy/manifoldr
 [submodule "mesh3d"]
 	path = mesh3d
 	url = https://github.com/hypertidy/mesh3d
+[submodule "mgrsrev"]
+	path = mgrsrev
+	url = https://github.com/hypertidy/mgrsrev
 [submodule "ncapi"]
 	path = ncapi
 	url = https://github.com/hypertidy/ncapi
@@ -164,6 +170,9 @@
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/hypertidy/reproj
+[submodule "rustycogs"]
+	path = rustycogs
+	url = https://github.com/hypertidy/rustycogs
 [submodule "rvgpm"]
 	path = rvgpm
 	url = https://github.com/sosoc/rvgpm
@@ -242,6 +251,9 @@
 [submodule "xplot"]
 	path = xplot
 	url = https://github.com/hypertidy/xplot
+[submodule "zaro"]
+	path = zaro
+	url = https://github.com/hypertidy/zaro
 [submodule "zarrr"]
 	path = zarrr
 	url = https://github.com/hypertidy/zarrr
