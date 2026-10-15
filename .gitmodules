@@ -17,6 +17,9 @@
 [submodule "affinity"]
 	path = affinity
 	url = https://github.com/hypertidy/affinity
+[submodule "altarr"]
+	path = altarr
+	url = https://github.com/hypertidy/altarr
 [submodule "anglr"]
 	path = anglr
 	url = https://github.com/hypertidy/anglr
@@ -26,9 +29,15 @@
 [submodule "bigcurve"]
 	path = bigcurve
 	url = https://github.com/hypertidy/bigcurve
+[submodule "blocklist"]
+	path = blocklist
+	url = https://github.com/hypertidy/blocklist
 [submodule "cdt"]
 	path = cdt
 	url = https://github.com/hypertidy/cdt
+[submodule "cdtr"]
+	path = cdtr
+	url = https://github.com/hypertidy/cdtr
 [submodule "cells"]
 	path = cells
 	url = https://github.com/hypertidy/cells
@@ -41,6 +50,9 @@
 [submodule "cmemsarco"]
 	path = cmemsarco
 	url = https://github.com/hypertidy/cmemsarco
+[submodule "cmrlifecycle"]
+	path = cmrlifecycle
+	url = https://github.com/hypertidy/cmrlifecycle
 [submodule "contourPolys"]
 	path = contourPolys
 	url = https://github.com/hypertidy/contourPolys
@@ -53,6 +65,9 @@
 [submodule "crsmeta"]
 	path = crsmeta
 	url = https://github.com/hypertidy/crsmeta
+[submodule "cvr"]
+	path = cvr
+	url = https://github.com/hypertidy/cvr
 [submodule "decido"]
 	path = decido
 	url = https://github.com/hypertidy/decido
@@ -107,6 +122,9 @@
 [submodule "gridcol"]
 	path = gridcol
 	url = https://github.com/hypertidy/gridcol
+[submodule "gris"]
+	path = gris
+	url = https://github.com/hypertidy/gris
 [submodule "grout"]
 	path = grout
 	url = https://github.com/hypertidy/grout
@@ -119,6 +137,9 @@
 [submodule "kekule"]
 	path = kekule
 	url = https://github.com/hypertidy/kekule
+[submodule "laridae"]
+	path = laridae
+	url = https://github.com/hypertidy/laridae
 [submodule "lazyraster"]
 	path = lazyraster
 	url = https://github.com/hypertidy/lazyraster
@@ -134,6 +155,9 @@
 [submodule "mesh3d"]
 	path = mesh3d
 	url = https://github.com/hypertidy/mesh3d
+[submodule "meshcore"]
+	path = meshcore
+	url = https://github.com/hypertidy/meshcore
 [submodule "mgrsrev"]
 	path = mgrsrev
 	url = https://github.com/hypertidy/mgrsrev
@@ -152,6 +176,9 @@
 [submodule "polymer"]
 	path = polymer
 	url = https://github.com/hypertidy/polymer
+[submodule "projr"]
+	path = projr
+	url = https://github.com/hypertidy/projr
 [submodule "quad"]
 	path = quad
 	url = https://github.com/hypertidy/quad
@@ -170,6 +197,9 @@
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/hypertidy/reproj
+[submodule "rgeodesy"]
+	path = rgeodesy
+	url = https://github.com/hypertidy/rgeodesy
 [submodule "rustycogs"]
 	path = rustycogs
 	url = https://github.com/hypertidy/rustycogs
@@ -209,6 +239,9 @@
 [submodule "tidyff"]
 	path = tidyff
 	url = https://github.com/hypertidy/tidyff
+[submodule "tilemath"]
+	path = tilemath
+	url = https://github.com/hypertidy/tilemath
 [submodule "timenow"]
 	path = timenow
 	url = https://github.com/hypertidy/timenow
@@ -218,6 +251,9 @@
 [submodule "topography"]
 	path = topography
 	url = https://github.com/hypertidy/topography
+[submodule "trowel"]
+	path = trowel
+	url = https://github.com/hypertidy/trowel
 [submodule "unjoin"]
 	path = unjoin
 	url = https://github.com/hypertidy/unjoin
@@ -227,6 +263,9 @@
 [submodule "vaster"]
 	path = vaster
 	url = https://github.com/hypertidy/vaster
+[submodule "vrtstack"]
+	path = vrtstack
+	url = https://github.com/hypertidy/vrtstack
 [submodule "vsils"]
 	path = vsils
 	url = https://github.com/hypertidy/vsils
