@@ -167,6 +167,9 @@
 [submodule "ncmeta"]
 	path = ncmeta
 	url = https://github.com/hypertidy/ncmeta
+[submodule "ndr"]
+	path = ndr
+	url = https://github.com/hypertidy/ndr
 [submodule "pfft"]
 	path = pfft
 	url = https://github.com/hypertidy/pfft
