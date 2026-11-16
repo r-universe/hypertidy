@@ -131,9 +131,6 @@
 [submodule "guerrilla"]
 	path = guerrilla
 	url = https://github.com/hypertidy/guerrilla
-[submodule "icechunkr"]
-	path = icechunkr
-	url = https://github.com/hypertidy/icechunkr
 [submodule "isoraster"]
 	path = isoraster
 	url = https://github.com/hypertidy/isoraster
@@ -239,6 +236,9 @@
 [submodule "tabularaster"]
 	path = tabularaster
 	url = https://github.com/hypertidy/tabularaster
+[submodule "tabularberg"]
+	path = tabularberg
+	url = https://github.com/hypertidy/tabularberg
 [submodule "textures"]
 	path = textures
 	url = https://github.com/hypertidy/textures
