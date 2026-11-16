@@ -131,6 +131,9 @@
 [submodule "guerrilla"]
 	path = guerrilla
 	url = https://github.com/hypertidy/guerrilla
+[submodule "icechunkr"]
+	path = icechunkr
+	url = https://github.com/hypertidy/icechunkr
 [submodule "isoraster"]
 	path = isoraster
 	url = https://github.com/hypertidy/isoraster
